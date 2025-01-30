@@ -1,0 +1,1 @@
+Generator dynamicznych pdfów z wykorystaniem biblioteki Itext
